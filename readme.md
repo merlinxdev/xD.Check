@@ -1,12 +1,12 @@
-Ex 1
-Client
+# Ex 1
+### Client
 
 exports["xD.Check"]:check("police")         -- เช็คจำนวนหมอตำรวจ
 exports["xD.Check"]:check("ambulance")      -- เช็คจำนวนหมอตำรวจ
 
 exports["xD.Check"]:players()               -- เช็คจำนวนผู้เล่นในประเทศทั้งหมด
 
-Server
+### Server
 exports["xD.Check"]:check("police")         -- เช็คจำนวนหมอตำรวจ
 exports["xD.Check"]:check("ambulance")      -- เช็คจำนวนหมอตำรวจ
 
