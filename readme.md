@@ -1,6 +1,7 @@
 # Ex 1
-### Client
+
 ```lua
+### Client
 exports["xD.Check"]:check("police")         -- เช็คจำนวนหมอตำรวจ
 exports["xD.Check"]:check("ambulance")      -- เช็คจำนวนหมอตำรวจ
 
