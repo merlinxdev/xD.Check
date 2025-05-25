@@ -1,6 +1,6 @@
 # Ex 1
 ### Client
-
+```lua
 exports["xD.Check"]:check("police")         -- เช็คจำนวนหมอตำรวจ
 exports["xD.Check"]:check("ambulance")      -- เช็คจำนวนหมอตำรวจ
 
@@ -9,6 +9,8 @@ exports["xD.Check"]:players()               -- เช็คจำนวนผู
 ### Server
 exports["xD.Check"]:check("police")         -- เช็คจำนวนหมอตำรวจ
 exports["xD.Check"]:check("ambulance")      -- เช็คจำนวนหมอตำรวจ
+
+```
 
 สามารถเพิ่มกี่อาชีพก็ได้และใส่ชื่ออาชีพไปในวงเล็บ
 
